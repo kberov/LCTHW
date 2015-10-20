@@ -53,3 +53,4 @@ int main()
   printf("name='%s' and full_name='%s'\n\n", name, full_name);
   return 0;
 }
+
